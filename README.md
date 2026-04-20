@@ -8,7 +8,7 @@ I'm a passionate developer and designer based in Lucknow, Uttar Pradesh. I love 
 - 🌱 I’m currently learning: Ethical Hacking and FPGA.
 - 👯 I’m looking to collaborate on: Exciting UI/UX or front-end projects.
 - 💬 Ask me about: UI/UX Design, Figma, HTML, CSS, or Embedded C.
-- 📫 How to reach me: mehvicoder007@gmail.com | LinkedIn (https://www.linkedin.com/in/mehveesh-chitranshi-a4bb80370/)
+- 📫 How to reach me: mehvicoder007@gmail.com | LinkedIn (https://www.linkedin.com/in/mehveesh-~-a4bb80370/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I won first prize in an interschool coding competition in 2022!
 
